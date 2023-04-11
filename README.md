@@ -1,5 +1,5 @@
 ![](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)
-<h1 align="center">Raf Dimop</h1>
+<h1 align="center">-> Rafaela <-</h1>
 <h3 align="center">printf("Hello, world");</h3>
 
 <h3 align="center">Languages:</h3>
